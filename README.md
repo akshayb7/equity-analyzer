@@ -14,6 +14,12 @@ license: mit
 
 A comprehensive tool to calculate and compare the value of startup stock options across multiple exit scenarios.
 
+## 🌐 Live App
+
+**Try it now:** [https://huggingface.co/spaces/akshay7/startup-equity-calculator](https://huggingface.co/spaces/akshay7/startup-equity-calculator)
+
+*The app is hosted on Hugging Face Spaces and is free to use.*
+
 ## Features
 
 - 📊 **Multi-scenario analysis** - Compare conservative, base case, and optimistic exits
@@ -28,6 +34,20 @@ A comprehensive tool to calculate and compare the value of startup stock options
 3. **Define exit scenarios**: Create multiple scenarios to compare outcomes
 4. **Analyze results**: Review the comparison table and visual charts
 
+## Example Use Cases
+
+- **Job Negotiation**: Compare equity packages from different startups
+- **Career Planning**: Understand the risk/reward profile of your options
+- **Investment Decisions**: Evaluate whether to exercise options early
+- **Financial Planning**: Model different exit scenarios for personal budgeting
+
+## Technical Details
+
+- **Backend**: Python with clean data models and robust calculations
+- **Frontend**: Gradio for interactive web interface
+- **Charts**: Plotly for professional visualizations
+- **Hosting**: Hugging Face Spaces (free tier)
+
 ## Disclaimer
 
-This tool is for educational purposes only. Consult with financial and tax professionals before making investment decisions.
+This tool is for educational purposes only. Consult with financial and tax professionals before making investment decisions. The calculations are simplified models and may not reflect all complexities of real equity structures.
